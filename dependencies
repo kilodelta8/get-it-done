@@ -1,0 +1,6 @@
+virtualenv <name>
+<name>\Scripts\activate
+
+pip install flask
+          > Flask-SQLAlchemy
+          > pymysql
